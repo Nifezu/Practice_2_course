@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Compluhter\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(43,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Compluhter\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(143,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Compluhter\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(194,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Compluhter\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(230,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Compluhter\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
